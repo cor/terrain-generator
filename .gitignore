@@ -27,6 +27,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Visual Studio Code
+Assets/VSCode/
+Assets/VSCode.meta
+.vscode/
+
 
 ### Unity ###
 /[Ll]ibrary/
